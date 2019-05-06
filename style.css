@@ -5,17 +5,22 @@ body {
 .container{
  display: flex;
 }
+.phone{
+ flex: 1;
+}
+
+.email{
+ flex: 2;
+}
+
+ .website{
+  flex: 3;
+}
+
 .experience{
  min-width: 70%;
  background-color: #FFEE80;
 }
-.column{
- flex: 3;
- flex-wrap: wrap;
- max-width: 30%;
- min-width: 140px;
- background-color: #FFEE80;
-} 
 
 .education{
  float: right;
