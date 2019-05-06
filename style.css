@@ -2,12 +2,15 @@ body {
  margin: 100px;
  padding: 0px;
 }
-.experience{
+.container{
+ display:flex;
+}
+experience{
  min-width: 70%;
 }
 .column{
  max-width: 25%;
- display: flex;
+ flex: 3;
   flex-direction: column;
  flex-wrap: wrap;
  max-width: 30%;
