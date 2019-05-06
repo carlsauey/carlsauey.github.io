@@ -33,12 +33,18 @@ body {
 }
 .education{
  flex: 1;
+ min-width: 33%;
+ text-align: center;
 }
 .pro{
  flex: 2;
+ min-width: 33%;
+ text-align: center;
 }
 .sauce{
  flex: 3;
+ min-width: 33%;
+ text-align: center;
 }
  
 p {
