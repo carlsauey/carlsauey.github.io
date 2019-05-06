@@ -1,6 +1,6 @@
 body {
- margin: 150px;
- padding: 50px;
+ margin: 125px;
+ padding: 0px;
  background-color: #686b63;
 background-image: url("https://www.transparenttextures.com/patterns/sandpaper.png");
 }
@@ -36,17 +36,17 @@ background-image: url("https://www.transparenttextures.com/patterns/sandpaper.pn
 .education{
  flex: 1;
  min-width: 33%;
- text-align: center;
+ margin: 50px;
 }
 .pro{
  flex: 2;
  min-width: 33%;
- text-align: center;
+ margin: 50px;
 }
 .sauce{
  flex: 3;
  max-width: 33%;
- text-align: center;
+ margin: 50px;
 }
  
 p {
