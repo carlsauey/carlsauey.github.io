@@ -43,7 +43,7 @@ body {
 }
 .sauce{
  flex: 3;
- min-width: 33%;
+ max-width: 33%;
  text-align: center;
 }
  
