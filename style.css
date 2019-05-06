@@ -17,6 +17,10 @@ body {
  background-color: #FFEE80;
 } 
 
+.education{
+ float: right;
+}
+
 p {
 font-family: 'Arial', Helvetica, sans-serif;
 }
