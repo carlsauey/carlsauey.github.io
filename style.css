@@ -34,17 +34,17 @@ background-image: url("https://www.transparenttextures.com/patterns/sandpaper.pn
  display: flex;
 }
 .education{
- flex: 1;
+ flex: 1 1 auto;
  min-width: 33%;
  margin: 50px;
 }
 .pro{
- flex: 2;
+ flex: 1 1 auto;
  min-width: 33%;
  margin: 50px;
 }
 .sauce{
- flex: 3;
+ flex: 1 1 auto;
  max-width: 33%;
  margin: 50px;
 }
