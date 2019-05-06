@@ -5,13 +5,13 @@ body {
 .container{
  display:flex;
 }
-experience{
+.experience{
  min-width: 70%;
 }
 .column{
- max-width: 25%;
+ display: inline;
  flex: 3;
-  flex-direction: column;
+ flex-direction: column;
  flex-wrap: wrap;
  max-width: 30%;
 } 
