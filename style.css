@@ -13,6 +13,7 @@ body {
  flex: 3;
  flex-wrap: wrap;
  max-width: 30%;
+ min-width: 140px;
  background-color: #FFEE80;
 } 
 
