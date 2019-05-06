@@ -9,11 +9,11 @@ body {
  min-width: 70%;
 }
 .column{
- display: inline;
  flex: 3;
  flex-direction: column;
  flex-wrap: wrap;
  max-width: 30%;
+ background-color: #FFEE80;
 } 
 
 p {
