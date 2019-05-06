@@ -8,16 +8,19 @@ body {
 .phone{
  flex: 1;
  min-width: 33%;
+ text-align: center;
 }
 
 .email{
  flex: 2;
  min-width: 33%;
+ text-align: center;
 }
 
  .website{
   flex: 3;
   max-width: 33%;
+  text-align: center;
 }
 
 .experience{
