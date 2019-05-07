@@ -37,7 +37,7 @@ background-image: url("https://www.transparenttextures.com/patterns/sandpaper.pn
 .column{
  flex: 2;
  border: 2px solid black;
- margin: 25px;
+ padding: 25px;
 }
 
 .education{
