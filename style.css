@@ -8,12 +8,12 @@ background-image: url("https://www.transparenttextures.com/patterns/wild-flowers
  display: flex;
  justify-content: space-between;
 }
-.logo{
- flex: 1;
+.image-container{
+ flex: 1 1 auto;
 }
 
 .contact{
- flex: 2;
+ flex: 2 1 auto;
 }
 
 .editorial{
