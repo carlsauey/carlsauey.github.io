@@ -31,16 +31,13 @@ background-image: url("https://www.transparenttextures.com/patterns/sandpaper.pn
 }
 
 .education{
- flex: 1;
- min-width: 33%;
+ margin: 25px;
 }
 .pro{
- flex: 2;
- min-width: 33%;
+ margin: 25px;
 }
 .sauce{
- flex: 3;
- max-width: 33%;
+ margin: 25px;
 }
  
 p {
