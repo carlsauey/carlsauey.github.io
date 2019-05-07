@@ -7,22 +7,12 @@ background-image: url("https://www.transparenttextures.com/patterns/sandpaper.pn
 .container{
  display: flex;
 }
-.phone{
+.logo{
  flex: 1;
- min-width: 33%;
- text-align: center;
 }
 
-.email{
+.contact{
  flex: 2;
- min-width: 33%;
- text-align: center;
-}
-
- .website{
-  flex: 3;
-  max-width: 33%;
-  text-align: center;
 }
 
 .editorial{
