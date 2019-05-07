@@ -31,16 +31,15 @@ background-image: url("https://www.transparenttextures.com/patterns/sandpaper.pn
 .experience{
  flex: 1;
  max-width: 60%;
+ margin: 10px;
 }
 
 .column{
  flex: 2;
  border: 2px solid black;
+ margin: 10px;
 }
-.columns{
- display: flex;
- justify-content: space-around;
-}
+
 .education{
  flex: 1;
  min-width: 33%;
