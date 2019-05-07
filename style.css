@@ -26,6 +26,10 @@ background-image: url("https://www.transparenttextures.com/patterns/sandpaper.pn
  margin: 10px;
 }
 
+ .date{
+  float: right;
+ }
+ 
 .column{
  flex: 2;
  border: 2px solid black;
