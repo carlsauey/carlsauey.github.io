@@ -25,11 +25,16 @@ background-image: url("https://www.transparenttextures.com/patterns/sandpaper.pn
   text-align: center;
 }
 
+.editorial{
+ display: flex;
+ 
 .experience{
- min-width: 70%;
+ flex: 1;
+ max-width: 60%;
 }
 
 .column{
+ flex: 2;
  border: 2px solid black;
 }
 .columns{
