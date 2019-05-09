@@ -7,7 +7,7 @@ background-image: url("https://www.transparenttextures.com/patterns/wild-flowers
 .container{
  display: flex;
  justify-content: space-between;
- padding: 50px;
+ padding: 75px;
 }
 .image-container{
  flex: 1 1 auto;
@@ -17,10 +17,13 @@ background-image: url("https://www.transparenttextures.com/patterns/wild-flowers
  flex: 2 1 auto;
 }
 
+.motivation{
+ padding: 75px;
+
 .editorial{
  display: flex;
  justify-content: space-between;
- padding: 50px;
+ padding: 75px;
  
 .experience{
  flex: 1;
