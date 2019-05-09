@@ -1,12 +1,13 @@
 body {
- margin: 150px;
- padding: 50px;
+ margin: 0px;
+ padding: 0px;
  background-color: #e1e0e5;
 background-image: url("https://www.transparenttextures.com/patterns/wild-flowers.png");
 }
 .container{
  display: flex;
  justify-content: space-between;
+ padding: 50px;
 }
 .image-container{
  flex: 1 1 auto;
