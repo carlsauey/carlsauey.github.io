@@ -7,7 +7,7 @@ background-image: url("https://www.transparenttextures.com/patterns/wild-flowers
 .container{
  display: flex;
  justify-content: space-between;
- padding: 75px;
+ margin: 75px;
 }
 .image-container{
  flex: 1 1 auto;
@@ -18,17 +18,17 @@ background-image: url("https://www.transparenttextures.com/patterns/wild-flowers
 }
 
 .motivation{
- padding: 75px;
+ margin: 75px;
+}
 
 .editorial{
  display: flex;
  justify-content: space-between;
- padding: 75px;
+ margin: 75px;
  
 .experience{
  flex: 1;
  max-width: 60%;
- margin: 10px;
 }
 
  .date{
@@ -38,17 +38,13 @@ background-image: url("https://www.transparenttextures.com/patterns/wild-flowers
 .column{
  flex: 2;
  border: 2px solid black;
- padding: 25px;
 }
 
 .education{
- margin: 25px;
 }
 .pro{
- margin: 25px;
 }
 .sauce{
- margin: 25px;
 }
  
 p {
