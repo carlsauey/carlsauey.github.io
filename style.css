@@ -6,7 +6,7 @@ background-image: url("https://www.transparenttextures.com/patterns/wild-flowers
 }
 .container{
  display: flex;
- justify-content: space-evenly;
+ justify-content: space-between;
  margin: 10px;
 }
 .image-container{
@@ -19,7 +19,7 @@ background-image: url("https://www.transparenttextures.com/patterns/wild-flowers
 
 .editorial{
  display: flex;
- justify-content: space-evenly;
+ justify-content: space-between;
  margin: 10px;
  
 .experience{
